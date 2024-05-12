@@ -8,7 +8,7 @@ The datasets consist of raw HTML files for Facebook (FB) and Tesla (TSLA) stocks
 
 ## Installation
 
-#Clone the project repository:
+# Clone the project repository:
 
 git clone https://your-repository-link.git
 
